@@ -19,6 +19,7 @@ classes/
 **/bower_components/
 **/node_modules/
 logs/
-**/logs/
-**/target/
+**/logs
+**/target
 .DS_Store
+**/HELP.md
