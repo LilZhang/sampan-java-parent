@@ -85,6 +85,14 @@
         </pluginManagement>
     </build>
 
+    <repositories>
+        <repository>
+            <id>public</id>
+            <name>Public Repositories</name>
+            <url>http://nexus.lilzh.com:18081/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
+
     <distributionManagement>
         <repository>
             <id>releases</id>
